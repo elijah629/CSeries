@@ -20,78 +20,9 @@ App Files for apps https://api.github.com/repos/Elijah629/CSeries/contents/APPS/
 [Math++.js (Another project of mine)](https://github.com/Elijah629/Mathplusplus.js)
 
 [Me on github](https://github.com/Elijah629)
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
 
-Wow you actually came all the way down!
-This is the secret depths of this site
-Here
-You can see UPCOMING projects.. Cool Right?
+## UPCOMING
+
+Here You can see UPCOMING projects.. Cool Right?
 So heres the first up comeing
-1. CCC-OS So now im going crazy i think but WHO CARES HAHA! Yep im making a os... C# C++ C Operating system
+1. CCC-OS So now im going crazy i think but WHO CARES! Yep im making a os... C# C++ C Operating system
