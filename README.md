@@ -23,6 +23,6 @@ App Files for apps https://api.github.com/repos/Elijah629/CSeries/contents/APPS/
 
 ## UPCOMING
 
-Here You can see UPCOMING projects.. Cool Right?
-So heres the first up comeing
-1. CCC-OS So now im going crazy i think but WHO CARES! Yep im making a os... C# C++ C Operating system
+Hmm... Looks like... There's nothing here...
+
+Check again tomorrow
