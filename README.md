@@ -23,6 +23,17 @@ App Files for apps https://api.github.com/repos/Elijah629/CSeries/contents/APPS/
 
 ## UPCOMING
 
-Hmm... Looks like... There's nothing here...
+CConsole in (C++,C)
 
-Check again tomorrow
+## NEWS!
+
+Well We got news!
+
+Ya know how its called "CSeries" and almost "everything" starts with a 'C' Well Other programming laungages start with a 'C' so now were including
+
+'C',
+'C++',
+and
+'C#'
+
+So wait for some cool console apps and desktop ones!
