@@ -26,7 +26,7 @@ App Files for apps https://api.github.com/repos/Elijah629/CSeries/contents/APPS/
 
 Noting Here!
 
-See the [App suggestion forms]() to suggest apps! also, see [forum rules](https://github.com/Elijah629/CSeries/blob/main/forumrules.md)
+See the [App suggestion forms wiki](https://github.com/Elijah629/CSeries/wiki/FORUMS!) to suggest apps! also, see [forum rules](https://github.com/Elijah629/CSeries/blob/main/forumrules.md)
 
 ## NEWS!
 
