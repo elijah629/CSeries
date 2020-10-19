@@ -27,3 +27,5 @@ So wait for some cool console apps and desktop ones!
 [Math++.js (Another project of mine)](https://github.com/Elijah629/Mathplusplus.js)
 
 [Me on github](https://github.com/Elijah629)
+
+[Website for CSeries (Noting intresting)](https://cseriesforums.wixsite.com/cseries)
