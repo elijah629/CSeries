@@ -8,13 +8,13 @@ Here You can Find all the apps [Here!](https://github.com/Elijah629/CSeries/tree
 
 CForumHub (It makes it easyer to suggest apps on the forum (Uses same mail protocol as [CMail](https://github.com/Elijah629/CSeries/raw/main/APPS/CMail/CMail.exe)))
 
-See the [App suggestion forms wiki](https://github.com/Elijah629/CSeries/wiki/FORUMS!) to suggest apps! also, see [forum rules](https://github.com/Elijah629/CSeries/blob/main/forumrules.md)
+See the [App suggestion forms wiki](https://github.com/Elijah629/CSeries/wiki/FORUMS!) to suggest apps!
 
 ## NEWS!
 
 Well We got news!
 
-Ya know how its called "[CSeries](github.com/Elijah629/CSeries)" and almost "all" my projects starts with a 'C' Well Other programming languages start with a 'C' so now were including.
+Ya know how its called "[CSeries](github.com/Elijah629/CSeries)" and almost "all" [my apps](https://github.com/Elijah629/CSeries/tree/main/APPS) start with a ['C'](google.com/search?q=All+The+C+Programming+Laungages) Well Other programming languages start with a 'C' so now were including.
 
 'C', 'C++', and 'C#'
 
@@ -28,4 +28,4 @@ So wait for some cool console apps and desktop ones!
 
 [Me on github](https://github.com/Elijah629)
 
-[Website for CSeries (Noting intresting)](https://cseriesforums.wixsite.com/cseries)
+[Meh Blog/Website](https://elijah629.wixsite.com/elijah629)
