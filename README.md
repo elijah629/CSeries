@@ -12,13 +12,23 @@ See the [App suggestion forms wiki](https://github.com/Elijah629/CSeries/wiki/FO
 
 ## NEWS!
 
-Well We got news!
+### --THIS--
+### ---IS---
+### -EXCITING-
 
-Ya know how its called "[CSeries](github.com/Elijah629/CSeries)" and almost "all" [my apps](https://github.com/Elijah629/CSeries/tree/main/APPS) start with a ['C'](google.com/search?q=All+The+C+Programming+Laungages) Well Other programming languages start with a 'C' so now were including.
+IM MAKING A OS!
 
-'C', 'C++', and 'C#'
+Its called CSharpOS!
 
-So wait for some cool console apps and desktop ones!
+Im making a logo,
+
+also its made in [Cosmos](https://www.gocosmos.org) (**C**# **O**pen **S**ource **M**anaged **O**perating **S**ystem).
+
+So Its EXCITING!
+
+Also its a new repo and its [HERE](https://github.com/Elijah629/CSharpOS) I AM SO HAAAAAAAAAAAAPY! (Kindof i do have to make it)
+
+(PS: Also do any of you mind if you awnser my questions on [StackOverflow.com](https://stackoverflow.com/users/14512356/eli-ozcan) Or My other account [Here](https://stackoverflow.com/users/14503396/elijah629) AND DO NOT CLOSE Them PLEASE)
 
 ## Links
 
@@ -29,3 +39,5 @@ So wait for some cool console apps and desktop ones!
 [Me on github](https://github.com/Elijah629)
 
 [Meh Blog/Website](https://elijah629.wixsite.com/elijah629)
+
+[CSharpOS (Da best proj. ever)](https://github.com/Elijah629/CSharpOS)
