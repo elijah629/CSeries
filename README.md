@@ -17,7 +17,7 @@ None
 
 ### WARNING: MOST OF THE FIRST APPS I MADE THAT NEED INSTALLERS ARE KINDOF BROKEN. TO USE THEM PLEASE RIGHT CLICK AND RUN AS ADMINASTRATOR!
 
-### FOR APPS YOU MAY NEED [C++ Runtime](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads) AND [.NET FRAMEWORK RUNTIME 4.7.2](https://dotnet.microsoft.com/download/dotnet-framework/net472) AND FINALLY [.NET CORE RUNTIME 3.1](https://dotnet.microsoft.com/download/dotnet-core/3.1/runtime)!
+### FOR APPS YOU MAY NEED [C++ Runtime](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads) AND [.NET FRAMEWORK RUNTIME](https://dotnet.microsoft.com/download/dotnet-framework) AND FINALLY [.NET CORE RUNTIME](https://dotnet.microsoft.com/download/dotnet-core)!
 
 
 ## Links
