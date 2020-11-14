@@ -33,4 +33,4 @@ If you have been wondering why I haven't made a app in awhile well LOOK NOW i ju
 
 [CSharpOS](https://github.com/Elijah629/CSharpOS)
 
-[HTML-Projects (COMPLETE)](https://elijah629.github.io/HTMLPROJECTS/MAINP/index.html)
+[HTML-Projects (COMPLETE)](https://elijah629.github.io/HTMLPROJECTS/MainP/index.html)
