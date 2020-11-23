@@ -19,6 +19,8 @@ So.. I took the challenge on making a os again... BUT (There is a "But") This ti
 
 3. Based on ubuntu
 
+5. There is a dark version (After first release)
+
 4. Its called Winux
 
 Coming Soon!
