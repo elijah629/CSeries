@@ -11,7 +11,17 @@ See the [App suggestion forms wiki](https://github.com/Elijah629/CSeries/wiki/FO
 
 ## NEWS!
 
-If you have been wondering why I haven't made a app in awhile well LOOK NOW i just made 2!
+So.. I took the challenge on making a os again... BUT (There is a "But") This time its diffrent:
+
+1. Its linux
+
+2. Looks like windows
+
+3. Based on ubuntu
+
+4. Its called Winux
+
+Coming Soon!
 
 ## NOTES (Please read)
 
@@ -30,7 +40,5 @@ If you have been wondering why I haven't made a app in awhile well LOOK NOW i ju
 [Me on github](https://github.com/Elijah629)
 
 [Meh Blog/Website](https://elijah629.wixsite.com/elijah629)
-
-[CSharpOS](https://github.com/Elijah629/CSharpOS)
 
 [HTML-Projects (COMPLETE)](https://elijah629.github.io/HTMLPROJECTS/MainP/index.html)
