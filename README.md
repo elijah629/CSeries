@@ -11,19 +11,7 @@ See the [App suggestion forms wiki](https://github.com/Elijah629/CSeries/wiki/FO
 
 ## NEWS!
 
-So.. I took the challenge on making a os again... BUT (There is a "But") This time its diffrent:
-
-1. Its linux
-
-2. Looks like windows
-
-3. Based on ubuntu
-
-5. There is a dark version (After first release)
-
-4. Its called Winux
-
-Coming Soon!
+Nothing here!
 
 ## NOTES (Please read)
 
@@ -43,4 +31,4 @@ Coming Soon!
 
 [Meh Blog/Website](https://elijah629.wixsite.com/elijah629)
 
-[HTML-Projects (COMPLETE)](https://elijah629.github.io/HTMLPROJECTS/MainP/index.html)
+[HTML-Projects](https://elijah629.github.io/HTMLPROJECTS/MainP/index.html)
