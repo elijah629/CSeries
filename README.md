@@ -1,7 +1,7 @@
 # Welcome
 
 
-## Welcome to Series
+## Welcome to CSeries
 
 Here You can Find all the apps [Here!](https://github.com/Elijah629/CSeries/tree/main/APPS) Or Download the CHub App finder and downloader [Here!](https://github.com/Elijah629/CSeries/raw/main/APPS/CHub/CHub%20Setup.exe) (WILL Download on click)
 
